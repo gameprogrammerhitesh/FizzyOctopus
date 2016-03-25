@@ -4,7 +4,7 @@
     Programming and Designed by Hitesh Sathawane                                 
     COPYRIGHT ©2015 by Hitesh Sathawane  
 	Email:hiteshsathawane@live.com            
-    Website:http://hiteshsathawane.webs.com											
+    Website:http://hiteshsathawane.com											
     All rights reserved.                                                     
    -----------------------------------------------------------*/
 package
